@@ -1,0 +1,2 @@
+# Contador
+ Um contador simples.
